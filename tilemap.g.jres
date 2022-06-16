@@ -1,0 +1,31 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAD////////////x8fHx8fHxH/////////////Hx8fHx8R8f//////////8fHx//8fEfH/////H/////H1/1//HxHx//X/Xx/////x/////x8R8f//Hx8f//////////8fEfHx8fHx/////////////xHx8fHx8fH////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMTAwMTEwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDIwMjAyMDEwMjAxMDEwMjAyMDEwMjAyMDIwMTAxMDEwMTAyMDQwMjAxMDIwMTAxMDIwMjAxMDIwNDAyMDEwMTAxMDEwMjAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAxMDEwMTAxMDEwMjAxMDEwMjAxMDEwMjAxMDEwMTAyMDEwMTAxMDEwMjAyMDIwMjAyMDIwMTAxMDIwMjAyMDIwMjAyMDIwMTAxMDIwMjAyMDIwMjAxMDEwMTAxMDIwMjAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAxMDEwMTAxMDEwMTAyMDEwMTAxMDEwMTAxMDIwMTAxMDEwMTAxMDEwMTAxMDEwMjAxMDEwMTAxMDIwMTAyMDEwMjAxMDEwMTAxMDIwMjAyMDIwMjAyMDEwMTAyMDEwMjAxMDIwMjAyMDIwMjAyMDIwMjAyMDQwMjAxMDEwMjAxMDIwMTAxMDEwMTAxMDEwMTAxMDIwMjAyMDIwMTAxMDIwMTAyMDIwMjAyMDEwMTAyMDIwMTAyMDEwMTAxMDEwMTAyMDEwMjAyMDIwMjAyMDIwMjAyMDEwMjAxMDIwMjAxMDEwMjAxMDEwMTAxMDEwMTAxMDIwMjAyMDIwMjAyMDIwMTAxMDMwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMjIyMjIyMDIwMDAyMjIwMDAyMDAyMjIyMDAyMDIwMDIyMDAwMjAyMjAyMDAwMjAwMDAwMjAwMjIyMjAyMjIyMDAyMjIwMjIyMjIwMDAwMDAyMjAwMDAwMDIwMDIwMDAwMjIyMjAwMDAwMDIyMjIyMDIyMjIyMjIyMjAyMjIyMDIyMjIyMjIyMjAyMjIyMjIwMjAyMDIyMDIwMDAwMjAwMjAyMDIwMDAwMDAwMDAwMjIyMDIwMjIyMjIyMDIwMDIwMDIwMjAwMjAwMjIwMjAyMjIyMjAwMDAwMDAwMDAyMDIyMDAyMjIyMjIyMDIwMDAwMDAyMjAwMDAwMDAwMDAwMDAwMjAyMjIyMjIyMjIyMjIyMjIyMDI=",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "sprites.skillmap.islandTile4",
+            "sprites.dungeon.collectibleRedCrystal",
+            "sprites.dungeon.collectibleBlueCrystal"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
